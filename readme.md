@@ -1,1 +1,1 @@
-Please read the READ.
+Please read the README.pdf
